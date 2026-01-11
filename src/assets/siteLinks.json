@@ -1,23 +1,18 @@
 [
   {
-    "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "icon": "Cloud",
+    "name": "OEC网盘",
+    "link": "https://oecop.netlify.app/"
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "name": "PC网盘",
+    "link": "https://pcop.netlify.app/"
   },
   {
     "icon": "CompactDisc",
     "name": "音乐",
-    "link": "https://music.imsyy.top/"
-  },
-  {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "link": "https://qm.20101214.xyz/"
   },
   {
     "icon": "Book",
@@ -26,12 +21,7 @@
   },
   {
     "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "name": "烧东西",
+    "link": "https://oecop.netlify.app/BL/Jock%20Studio/"
   }
 ]
