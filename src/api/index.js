@@ -8,7 +8,7 @@ import fetchJsonp from "fetch-jsonp";
 // 获取音乐播放列表
 export const getPlayerList = async (server, type, id) => {
   const res = await fetch(
-    `${import.meta.env.VITE_SONG_API}?server=${server}&type=${type}&id=${id}`,
+    `${import.meta.env.VITE_SONG_API}v1?id=${id}&level=sq`,
   );
   const data = await res.json();
 
